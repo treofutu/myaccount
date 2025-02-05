@@ -1,3 +1,4 @@
+//ngay 8 tet, bat dau lai tu nhung ki luat nho nhat
 //ngay 7 tet, bat dau lai tu nhung ki luat nho nhat
 //ngay 6 tet, bi call margin va futu kaka
 //ngay 5  tet co truyen viet nam vjp
