@@ -1,3 +1,4 @@
+//ngay 10 tet, van di lam
 //ngay 9 tet, thẻ thao
 //ngay 8 tet, bat dau lai tu nhung ki luat nho nhat
 //ngay 7 tet, bat dau lai tu nhung ki luat nho nhat
